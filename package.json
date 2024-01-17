@@ -1,0 +1,52 @@
+{
+  "name": "ikea",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.1.1",
+    "@heroicons/vue": "^2.1.1",
+    "@material-tailwind/react": "^2.1.8",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@types/react-dom": "18.0.9",
+    "classnames": "^2.3.2",
+    "eslint-config-next": "13.0.5",
+    "flowbite": "^2.2.1",
+    "lucide-react": "^0.307.0",
+    "next": "^14.0.4",
+    "next-images": "^1.8.5",
+    "next-video": "^0.11.1",
+    "ng-image-slider": "^7.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.29.0",
+    "react-slideshow-image": "^4.3.0",
+    "slick-carousel": "^1.8.1",
+    "yet-another-react-lightbox": "^3.15.6"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.5",
+    "@types/react": "18.2.45",
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.4.32",
+    "prettier": "^2.8.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.3.3"
+  }
+}
